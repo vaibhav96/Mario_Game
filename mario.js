@@ -34,6 +34,8 @@ for(i=0;i<10;i++) {
 	coin_taken[i].src = "Sounds/coin.mp3"
 }
 
+alert("Press the S key on the keyboard to start the game.");
+
 //Images that i usied in game.
 var gameover_image = new Image()
 var coin = new Image()
