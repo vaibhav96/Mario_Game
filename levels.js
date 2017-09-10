@@ -1,5 +1,5 @@
 
-
+//Author
 game.objects = {}
 game.objects.brick = {width: 20, height: 20}
 game.objects.brick2 = {width: 10, height: 10}
